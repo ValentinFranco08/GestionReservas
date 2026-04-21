@@ -2,7 +2,9 @@
 
 En esta fase tomamos los Casos de Uso y Escenarios generados en el Paso 1 y los convertimos en unidades de trabajo medibles y asignables (Tickets).
 
-## Tablero (Simulación Jira/Trello)
+## Tablero de Trello
+**Enlace al Tablero:** [Tablero de Gestión de Reservas](https://trello.com/invite/b/69e7eb11d76f99289740c9d2/ATTI58d6e621476597d47155b90abea6e3ef4603EAA3/gestiondereservas)
+
 **Sprint Actual**: Sprint 1 (Duración: 2 semanas)
 **Objetivo del Sprint**: Implementar la visualización y gestión del equipamiento de salas y configurar el pipeline base de testing y CI/CD.
 
