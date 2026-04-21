@@ -18,7 +18,7 @@ En esta fase tomamos los Casos de Uso y Escenarios generados en el Paso 1 y los 
   - El modelo `Room` tiene el nuevo campo.
   - La base de datos guarda correctamente los datos al hacer un insert/update.
 - **Estimación**: 3 Story Points (SP).
-- **Asignado a**: [Tu Nombre / Developer Backend]
+- **Asignado a**: Franco Valentin / Developer
 
 ---
 
@@ -34,7 +34,7 @@ En esta fase tomamos los Casos de Uso y Escenarios generados en el Paso 1 y los 
   - Formularios muestran el campo de manera responsiva (usando Tailwind).
   - La tabla se adapta a la nueva columna sin romper el diseño.
 - **Estimación**: 2 Story Points (SP).
-- **Asignado a**: [Tu Nombre / Developer Frontend]
+- **Asignado a**: Franco Valentin / Developer Frontend
 
 ---
 
@@ -48,7 +48,7 @@ En esta fase tomamos los Casos de Uso y Escenarios generados en el Paso 1 y los 
   - Los tests pueden ser ejecutados desde la terminal localmente (`python -m unittest` o `pytest`).
   - Cobertura mínima: creación correcta y fallida de Room.
 - **Estimación**: 3 Story Points (SP).
-- **Asignado a**: [Tu Nombre / QA Engineer]
+- **Asignado a**: Franco Valentin / QA Engineer
 
 ---
 
@@ -62,7 +62,7 @@ En esta fase tomamos los Casos de Uso y Escenarios generados en el Paso 1 y los 
   - Archivo `.yml` válido creado en el repositorio.
   - El pipeline corre los tests exitosamente de manera aislada.
 - **Estimación**: 5 Story Points (SP).
-- **Asignado a**: [Tu Nombre / DevOps]
+- **Asignado a**: Franco Valentin / DevOps
 
 ---
 
