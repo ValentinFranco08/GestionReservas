@@ -66,6 +66,22 @@ En esta fase tomamos los Casos de Uso y Escenarios generados en el Paso 1 y los 
 - **Estimación**: 5 Story Points (SP).
 - **Asignado a**: Franco Valentin / DevOps
 
+
+## Ticket 5: Actualizar controladores para guardado
+**Tipo:** Tarea de Desarrollo (Backend)
+
+**Descripción:**
+Modificar el archivo de rutas principal (`app/routes/web_routes.py`) para capturar la información del campo `equipment` enviado desde los formularios del frontend, y guardarlo/actualizarlo correctamente usando el ORM SQLAlchemy.
+
+**Criterios de Aceptación:**
+- La función `add_room()` captura `request.form.get('equipment')` y crea el objeto `Room` correctamente.
+- La función `edit_room()` captura y actualiza el campo `equipment` del registro existente.
+- No se producen errores 500 al enviar un formulario con el campo de equipamiento vacío.
+
+**Estimación:** 2 Puntos de Historia.
+
+
+
 ---
 
 ## Resumen de la Planificación
